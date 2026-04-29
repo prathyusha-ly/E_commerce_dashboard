@@ -12,6 +12,7 @@ An Excel dashboard designed to analyze e-commerce sales performance across regio
 
 ## 📂 Project File
 Download the Excel file from this repository to explore the dashboard and analysis.
+<a href="https://github.com/prathyusha-ly/E_commerce_dashboard/blob/main/E_Commerce_Dashboard.xlsx"> </a>
 
 
 
