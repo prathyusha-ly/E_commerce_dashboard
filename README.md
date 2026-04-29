@@ -1,5 +1,5 @@
 # E_commerce_dashboard
-Developed an interactive Sales Dashboard in Excel to analyze monthly and category-wise performance. Used charts, Pivot Tables, and a dropdown filter to visualize sales and profit trends. Enabled users to explore patterns, identify top-performing categories, and support data-driven decision-making.
+Developed an interactive Sales Dashboard in Excel to analyze monthly and category-wise performance. Used charts, Pivot Tables, and Combo Box to visualize sales and profit trends. Enabled users to explore patterns, identify top-performing categories, and support data-driven decision-making.
 # 🔹 Overview
 An Excel dashboard designed to analyze e-commerce sales performance across regions, products, and time periods. It presents key metrics and trends using structured data and visualizations to support business insights.
 # 🔹Dashboard
