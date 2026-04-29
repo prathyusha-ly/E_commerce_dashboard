@@ -3,7 +3,7 @@ Developed an interactive Sales Dashboard in Excel to analyze monthly and categor
 # 🔹 Overview
 An Excel dashboard designed to analyze e-commerce sales performance across regions, products, and time periods. It presents key metrics and trends using structured data and visualizations to support business insights.
 # 🔹Dashboard
-<img width="914" height="356" alt="Sales Dashboard-combo box" src="https://github.com/user-attachments/assets/ea4f7577-8c36-441d-a60e-edad0bd96ae6" />
+<img width="854" height="278" alt="Sales Dashboard-combo box" src="https://github.com/user-attachments/assets/7640087f-19fd-4d17-a8a0-6b524855bf92" />
 
 # 🔹Key Insights
 - Sales show a steady increase from the beginning of the year, reaching peak performance around October.
